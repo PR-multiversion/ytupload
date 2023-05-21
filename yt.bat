@@ -1,0 +1,1 @@
+python upload_video.py --file="/UTUBE_UPLOAD/record_video.mp4" --title="Summer vacation in California" --description="Had fun surfing in Santa Cruz" --keywords="surfing,Santa Cruz" --category="22" --privacyStatus="private"
